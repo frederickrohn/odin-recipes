@@ -1,2 +1,4 @@
 # odin-recipes
-Practice making a quick web-app (totally useless)
+Practice using basic html
+
+
